@@ -39,6 +39,7 @@ public class ClientCardRepositoryTests {
 
     @org.junit.jupiter.api.Test
     void getAll() {
+        // test to get all items
         ClientCardRepository repo = new ClientCardRepository(new ClientCardValidator());
         ClientCard added1 = new ClientCard("1", "test1", "test1", "Gelu1","11-03-1922","17-01-2445");
         ClientCard added2 = new ClientCard("2", "test2", "test2", "Gelu2","11-03-1922","17-01-2445");
