@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ClientCardRepositoryTests {
 
     @org.junit.jupiter.api.Test
-    void findByIdWithExistingIdShouldReturnCorrectCake() {
+    void findByIdWithExistingIdShouldReturnCorrectClientCard() {
 
         ClientCardRepository repo = new ClientCardRepository(new ClientCardValidator());
         ClientCard added = new ClientCard("1", "test", "test", "Gelu","11-03-1922","17-01-2445");
@@ -21,7 +21,10 @@ public class ClientCardRepositoryTests {
         assertNotNull(found, "Returned null for existing id!");
         assertEquals(found.getId(), "1", String.format("Returned id %s instead of correct id=1!", found.getId()));
         assertEquals(found.getCNP(), "test", String.format("Returned %s instead of %s", found.getCNP(), added.getCNP()));
+        assertEquals(found.getFirstName(), "test", String.format("Returned %s instead of %s", found.getFirstName(), added.getFirstName()));
+        assertEquals(found.getLastName(), "Gelu", String.format("Returned %s instead of %s", found.getLastName(), added.getLastName()));
         assertEquals(found.getDateOfBirth(), "11-03-1922", String.format("Returned %s instead of %s", found.getDateOfBirth(), added.getDateOfBirth()));
+        assertEquals(found.getDateOfRegistration(), "17-01-2445", String.format("Returned %s instead of %s", found.getDateOfRegistration(), added.getDateOfRegistration()));
     }
 
     @org.junit.jupiter.api.Test
