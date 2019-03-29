@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d873e4c5-5df4-45b6-9245-43962c9bbf7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tests/MedicamentRepositoryTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/MedicamentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/MedicamentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tests/ClientCardRepositoryTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/ClientCardRepositoryTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestiuneHotel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestiuneHotel/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gestiuneHotel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestiuneHotel/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,53 +15,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tests/MedicamentRepositoryTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tests/ClientCardRepositoryTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Repository/MedicamentRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Domain/Medicament.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,46 +64,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlinePharmacy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlinePharmacy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -166,8 +75,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553346922285" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553348887046" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OnlinePharmacy1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,8 +194,16 @@
       <workItem from="1553256600548" duration="20359000" />
       <workItem from="1553287696092" duration="180000" />
       <workItem from="1553339928277" duration="40000" />
-      <workItem from="1553340064897" duration="6031000" />
+      <workItem from="1553340064897" duration="7260000" />
     </task>
+    <task id="LOCAL-00001" summary="tests">
+      <created>1553347164432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553347164432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -310,11 +227,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41260000" />
+    <option name="totallyTimeSpent" value="42489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24433658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,6 +265,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Medicine.java" />
@@ -499,10 +419,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Domain/Medicament.java">
+    <entry file="file://$PROJECT_DIR$/src/Tests/MedicamentRepositoryTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="93" />
+        <state relative-caret-position="442">
+          <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -526,13 +449,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/MedicamentRepositoryTests.java">
+    <entry file="file://$PROJECT_DIR$/src/Domain/Medicament.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="93" />
         </state>
       </provider>
     </entry>
